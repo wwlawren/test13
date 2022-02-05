@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2E89BbeFf57fe4aE328EB9fF474F2991cc5517dB",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2E89BbeFf57fe4aE328EB9fF474F2991cc5517dB",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001 
+  },
+  "NFT_NAME": "Crypto Kaktos",
+  "SYMBOL": "KAKT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kaktos-mmntzcyv5m",
+  "SHOW_BACKGROUND": true
+}
